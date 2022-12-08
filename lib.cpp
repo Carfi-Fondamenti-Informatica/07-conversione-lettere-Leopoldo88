@@ -1,3 +1,4 @@
+#include"lib.h"
 if((a>'A'&&a<'Z')||(a>'a'&&int(a)<'z')){
 
     if(a>'A'&&a<'Z'){
