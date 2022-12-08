@@ -7,7 +7,7 @@ char c;
     char v;
     cin>>c;
     if (checkimput(x:c)){
-        v=convertito(x:c);
+        v=conversione(x:c);
         cout<<v;
         }else {
         cout<<"errore"<<endl;
