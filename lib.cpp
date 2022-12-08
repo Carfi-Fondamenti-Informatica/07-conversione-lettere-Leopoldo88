@@ -11,7 +11,7 @@ char conversione (char x)
     char ris;
     if(x>='A'&&x<='Z')
         ris=x+32;
-    else  (x>='a'&&x<='z')
+    else 
         ris=x-32;
 return ris;
 }
