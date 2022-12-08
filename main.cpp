@@ -8,7 +8,7 @@ char v;
 cin >> c;
 if(checkinput(c))
 {
-    v=conversione(c);
+    v=conv(c);
     cout<<v;
 }
 else
