@@ -1,4 +1,4 @@
-#include"lib.cpp"
+#include "lib.cpp"
 
 char conv(char x);
 bool checkinput(int x);
