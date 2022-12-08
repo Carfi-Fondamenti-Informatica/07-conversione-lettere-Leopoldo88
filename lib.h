@@ -1,5 +1,5 @@
 #include "lib.cpp"
 
 char conv(char x);
-bool checkinput(int x);
+bool checkinput(char x);
 
