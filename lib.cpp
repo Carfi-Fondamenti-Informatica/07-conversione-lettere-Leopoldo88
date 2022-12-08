@@ -6,7 +6,7 @@ bool checkinput(int x)
     else
         return false;
 }
-char conversione(char x)
+char conv(char x)
 {
     char ris;
     if(x>='A'&&x<='Z')
