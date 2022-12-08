@@ -1,5 +1,5 @@
 #include"lib.cpp"
 
-char conversione(char x);
+char conv(char x);
 bool checkinput(int x);
 
