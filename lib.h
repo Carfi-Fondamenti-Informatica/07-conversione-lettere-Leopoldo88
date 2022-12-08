@@ -1,1 +1,2 @@
 
+bool maiuscola(char a, char b, char c);
