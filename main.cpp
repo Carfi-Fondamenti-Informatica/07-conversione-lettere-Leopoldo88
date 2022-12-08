@@ -6,8 +6,8 @@ int main() {
 char c;
     char v;
     cin>>c;
-    if (checkimput(x:c)){
-        v=conversione(x:c);
+    if (checkinput(c)){
+        v=conversione(c);
         cout<<v;
         }else {
         cout << "errore" <<endl;
