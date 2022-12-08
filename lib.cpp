@@ -1,12 +1,11 @@
+if((a>'A'&&a<'Z')||(a>'a'&&int(a)<'z')){
 
-if((int(a)>65&&int(a)<90)||(int(a)>97&&int(a)<122)){
-    if((int(a)>65&&int(a)<90)){
-        a=a-32;
+    if(a>'A'&&a<'Z'){
+        b=a+32;
     }
-    if ((int(a)>97&&int(a)<122)){
-        a=a+32;
+    if (a>'a'&&int(a)<'z'){
+        c=a-32;
     }
-
     return true;
 }
 else{
