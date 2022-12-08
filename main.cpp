@@ -10,6 +10,6 @@ char c;
         v=conversione(x:c);
         cout<<v;
         }else {
-        cout<<"errore"<<endl;
+        cout << "errore" <<endl;
         }
     return 0;
