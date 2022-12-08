@@ -1,5 +1,5 @@
 #include<iostream>
-bool checkinput(int x)
+bool checkinput(char x)
 {
  if((x>=65&&x<=90)||(x>=97&&x<=122))
            return true;
